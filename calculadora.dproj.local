@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/01/06 21:47:20.000.306,=C:\Users\MTR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/06 21:49:19.000.868,C:\Users\MTR\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\MTR\Downloads\delphi\Calculadora\calculadora.pas</Transaction>
+    <Transaction>2024/01/06 21:49:19.000.868,C:\Users\MTR\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\MTR\Downloads\delphi\Calculadora\calculadora.fmx</Transaction>
+    <Transaction>2024/01/06 21:49:46.000.524,C:\Users\MTR\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\MTR\Downloads\delphi\Calculadora\calculadoraa.dproj</Transaction>
+    <Transaction>2024/01/06 21:50:03.000.485,C:\Users\MTR\Downloads\delphi\Calculadora\calculadora.pas=C:\Users\MTR\Downloads\delphi\Calculadora\U_calculadora.pas</Transaction>
+    <Transaction>2024/01/06 21:50:03.000.485,C:\Users\MTR\Downloads\delphi\Calculadora\calculadora.fmx=C:\Users\MTR\Downloads\delphi\Calculadora\U_calculadora.fmx</Transaction>
+    <Transaction>2024/01/06 21:50:13.000.859,C:\Users\MTR\Downloads\delphi\Calculadora\calculadoraa.dproj=C:\Users\MTR\Downloads\delphi\Calculadora\calculadora.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
